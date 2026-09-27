@@ -1,0 +1,4 @@
+C:\Users\peter\Desktop\Csharpövningar2\obj\Debug\net10.0\Csharpövningar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\Desktop\Csharpövningar2\obj\Debug\net10.0\Csharpövningar2.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\Csharpövningar2\obj\Debug\net10.0\Csharpövningar2.AssemblyInfo.cs
+C:\Users\peter\Desktop\Csharpövningar2\obj\Debug\net10.0\Csharpövningar2.csproj.CoreCompileInputs.cache
