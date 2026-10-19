@@ -5,14 +5,19 @@
 static void Bank()
 {
     System.Console.Write("Ange räntan i procent: ");
+    
+        
+    
     double ränta = double.Parse(Console.ReadLine());
 
     double pengar = 1000;
-
+    
     for (int år = 1; år <= 10; år++)
 {
     pengar += pengar * ränta / 100;
 
     System.Console.WriteLine($"År {år}: {pengar:F2} kr");
 }
-}Bank();
+}
+
+Bank();
